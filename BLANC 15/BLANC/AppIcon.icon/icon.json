@@ -1,0 +1,90 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.07451,0.10196,0.12941,1.00000",
+      "display-p3:0.00000,0.00000,0.00000,1.00000"
+    ],
+    "orientation" : {
+      "start" : {
+        "x" : 0.5,
+        "y" : 0
+      },
+      "stop" : {
+        "x" : 0.5,
+        "y" : 0.7
+      }
+    }
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "linear-gradient" : [
+                  "display-p3:0.90588,0.96471,1.00000,1.00000",
+                  "srgb:0.07451,0.10196,0.12941,1.00000"
+                ],
+                "orientation" : {
+                  "start" : {
+                    "x" : 0.6782109206141385,
+                    "y" : 0.3348793981641703
+                  },
+                  "stop" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "linear-gradient" : [
+                  "display-p3:0.90718,0.96604,1.00000,1.00000",
+                  "display-p3:0.07451,0.10196,0.12941,1.00000"
+                ],
+                "orientation" : {
+                  "start" : {
+                    "x" : 0.6724759241773385,
+                    "y" : 0.33135629693824104
+                  },
+                  "stop" : {
+                    "x" : 0,
+                    "y" : 1
+                  }
+                }
+              }
+            }
+          ],
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "Image.svg",
+          "name" : "Image",
+          "position" : {
+            "scale" : 8.3,
+            "translation-in-points" : [
+              30.038928751117055,
+              -5
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
