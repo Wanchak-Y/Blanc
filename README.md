@@ -1,5 +1,7 @@
 # BLANC
 
+<img width="5692" height="3200" alt="Blanc Slide" src="https://github.com/user-attachments/assets/6dd60331-8db7-4462-a7e5-bff22d216eea" />
+
 ### A simple and elegant LaTeX editor for macOS.
 
 BLANC is a native LaTeX editor for macOS, designed around a simple idea: writing LaTeX should focus on the document itself, rather than the tools around it.
@@ -110,14 +112,6 @@ When reporting a bug, please include:
 * What you expected to happen
 * What actually happened
 * Screenshots or error messages, if available
-
-### Discussions
-
-For general ideas, questions and suggestions:
-
-**[Join GitHub Discussions](../../discussions)**
-
----
 
 ## Development
 
